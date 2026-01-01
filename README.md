@@ -1,4 +1,4 @@
-## Memoizatio Approach
+## Memoization Approach
 This solution improves the **pure recursive approach** by adding **memoization** to avoid recomputation of subproblems.
 
 From each index, we try all **possible jumps** (1 to `nums[i]`) and recursively compute the minimum jumps needed to reach the last index.
