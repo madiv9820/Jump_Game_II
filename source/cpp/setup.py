@@ -1,7 +1,7 @@
 from setuptools import setup, Extension
 from Cython.Build import cythonize
 
-# 📦 Define a Cython extension module
+# 📦 Define a Cython extension module 
 # - name: module name used in Python imports
 # - sources: .pyx file that contains Cython/C++ code
 # - language: tells the compiler to use C++
